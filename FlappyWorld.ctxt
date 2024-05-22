@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FlappyWorld
+comment1.params=
+comment1.target=FlappyWorld()
+comment2.params=
+comment2.target=void\ MainMenu()
+comment3.params=
+comment3.target=void\ startGame()
+comment4.params=
+comment4.target=void\ resetGame()
+comment5.params=paused
+comment5.target=void\ setPaused(boolean)
+comment6.params=
+comment6.target=boolean\ isPaused()
+comment7.params=
+comment7.target=boolean\ inMainMenu()
+comment8.params=
+comment8.target=void\ act()
+comment9.params=
+comment9.target=void\ gameOver()
+numComments=10
